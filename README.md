@@ -1,4 +1,4 @@
-# PlantMethods2019
+# UBLRPSUI
 This repo contains MATLAB code and dataset of the article `Unsupervised Bayesian Learning for Rice Panicle Segmentation with UAV Images`
 
 ## Dataset 
