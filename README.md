@@ -1,11 +1,11 @@
 # PlantMethods2019
 This repo contains the code and data of the article 'Unsupervised Bayesian Learning for Rice Panicle Segmentation with UAV Images'
 
-# Dataset 
+## Dataset 
 This dataset has been used in article 'Unsupervised Bayesian Learning for Rice Panicle Segmentation with UAV Images'. This dataset contains 12 images taken with Unmanned Areal Vehicle (UAV). These images have the filename ending with '_UAV.jpg'. The corresponding manual panicle detection of these 12 images have filename ending with '_MAN.jpg'. Filename of Image #1 starts with 'I1' and so forth for following images. Filename and resolution of images are as follows.
 
-Image	Distance	Resolution
-
+| Image |	Distance | Resolution |
+|-------|----------|------------|
 I1	3m 		820 × 865
 I2	3m 		810 × 800  
 I3	3m 		1050 × 1075  
