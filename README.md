@@ -2,7 +2,7 @@
 This repo contains the code and data of the article 'Unsupervised Bayesian Learning for Rice Panicle Segmentation with UAV Images'
 
 ## Dataset 
-This dataset contains 12 images taken with Unmanned Areal Vehicle (UAV) at the Super Rice achievement Transformative Base (SRTB) of the Shenyang Agricultural University (SYAU) in northeastern China during 2017 and 2018.  Filename of Image #1 starts with 'I1' and so forth for the following images. The filenames of the orina images are ended with '_UAV.jpg'. The rice panicle in each image was manually labeled, and the corresponding manually labeled results of these 12 images have filenames ending with '_MAN.jpg'. Informaiton of these 12 images in this dataset is listed as follows.
+This dataset contains 12 images taken with Unmanned Areal Vehicle (UAV) at the Super Rice achievement Transformative Base (SRTB) of the Shenyang Agricultural University (SYAU) in northeastern China during 2017 and 2018.  Filename of Image #1 starts with `I1` and so forth for the following images. The filenames of the original images are ended with `_UAV.jpg`. The rice panicle in each image was manually labeled, and the corresponding manually labeled results of these 12 images have filenames ending with `_MAN.jpg`. Informaiton of these 12 images in this dataset is listed as follows.
 
 | Image |	Distance | Resolution |
 | --- | --- | --- |
